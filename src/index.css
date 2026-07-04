@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body{
+    margin:0;
+    padding:0;
+    font-family: 'Segoe UI',sans-serif;
+    background: linear-gradient(
+        to bottom,
+        #CAF0F8 0%,
+        #90E0EF 25%,
+        #00B4D8 55%,
+        #0077B6 80%,
+        #03045E 100%
+    );
+    min-height:100vh;
+}
+
+*{
+    box-sizing:border-box;
+}
