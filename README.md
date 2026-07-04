@@ -38,15 +38,13 @@ src/
 └── main.jsx
 ```
 
-## Screenshots
+### Login Page
 
-## Login Page
+![Login Page](src/assets/login-page.png)
 
-![Login Page](assets/login-page.png)
+### Dashboard
 
-## Dashboard
-
-![Dashboard](assets/dashboard-page.png)
+![Dashboard](src/assets/dashboard-page.png)
 
 ## Installation
 
